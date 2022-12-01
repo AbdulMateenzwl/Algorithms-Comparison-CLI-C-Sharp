@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Algorithms_CLI_C_sharp.BL.Org">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAIAAAAAAAAAEgAACAAAAAACJAgA=</HashCode>
+      <FileName>BL\structOrg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Algorithms_CLI_C_sharp.DL.Data">
+    <Position X="3" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIIIIAEAQBAOBBBBQICJCAAAAAgBAIADAAgAAFk=</HashCode>
+      <FileName>DL\Organization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Algorithms_CLI_C_sharp.DL.OrganizationDl">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAACAAAQAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>DL\OrganizationDl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Algorithms_CLI_C_sharp.Program">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Algorithms_CLI_C_sharp.UI.OrganizationUI">
+    <Position X="7.75" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAQAAAAAAAQBACAAAAAAAAAAQABAAAAA=</HashCode>
+      <FileName>UI\OrganizationUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
